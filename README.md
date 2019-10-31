@@ -26,6 +26,6 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-1.Testing
-2.How this
-3.spaces
+1. Testing
+2. How this
+3. spaces
